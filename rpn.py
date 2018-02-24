@@ -22,7 +22,7 @@ operators = {
     '/': operator.truediv,
     '*': operator.mul,
     '%': percentage, 
-    '^': operator.pow,
+    #'^': operator.pow,
     '.': operator.floordiv,
     '&': operator.and_,
     '|': operator.or_,
